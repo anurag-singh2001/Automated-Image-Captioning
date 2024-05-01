@@ -35,12 +35,8 @@ Automated Image Captioning is an innovative project aimed at enhancing image acc
 
 ## Screenshot
 ![image](https://github.com/anurag-singh2001/Automated-Image-Captioning/assets/72223953/1501263b-f14b-4480-b04d-dad717e31bbf)
+
 ![image](https://github.com/anurag-singh2001/Automated-Image-Captioning/assets/72223953/e6280e6b-3d51-4001-8c32-1648ee74a53a)
 
 
 
-## License:
-This project is licensed under the [License Name/Link]. See the LICENSE file for details.
-
-## Acknowledgments:
-We would like to thank [Acknowledged Parties/Contributors] for their contributions to this project.
